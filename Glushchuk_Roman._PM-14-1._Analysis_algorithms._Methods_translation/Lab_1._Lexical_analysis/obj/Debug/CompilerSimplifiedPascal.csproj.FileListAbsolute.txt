@@ -1,0 +1,18 @@
+F:\УЧЁБА\ДНУ ФПМ\ПМ-14-.. 3 курс\V семестр\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\bin\Debug\CompilerSimplifiedPascal.exe.config
+F:\УЧЁБА\ДНУ ФПМ\ПМ-14-.. 3 курс\V семестр\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.csprojResolveAssemblyReference.cache
+F:\УЧЁБА\ДНУ ФПМ\ПМ-14-.. 3 курс\V семестр\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.frmTranslator.resources
+F:\УЧЁБА\ДНУ ФПМ\ПМ-14-.. 3 курс\V семестр\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.Properties.Resources.resources
+F:\УЧЁБА\ДНУ ФПМ\ПМ-14-.. 3 курс\V семестр\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.csproj.GenerateResource.Cache
+F:\УЧЁБА\ДНУ ФПМ\ПМ-14-.. 3 курс\V семестр\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\bin\Debug\CompilerSimplifiedPascal.exe
+F:\УЧЁБА\ДНУ ФПМ\ПМ-14-.. 3 курс\V семестр\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\bin\Debug\CompilerSimplifiedPascal.pdb
+F:\УЧЁБА\ДНУ ФПМ\ПМ-14-.. 3 курс\V семестр\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.exe
+F:\УЧЁБА\ДНУ ФПМ\ПМ-14-.. 3 курс\V семестр\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.pdb
+E:\Git Local Repo\CompilerSimplifiedPascal\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\bin\Debug\CompilerSimplifiedPascal.exe.config
+E:\Git Local Repo\CompilerSimplifiedPascal\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.exe
+E:\Git Local Repo\CompilerSimplifiedPascal\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.pdb
+E:\Git Local Repo\CompilerSimplifiedPascal\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\bin\Debug\CompilerSimplifiedPascal.exe
+E:\Git Local Repo\CompilerSimplifiedPascal\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\bin\Debug\CompilerSimplifiedPascal.pdb
+E:\Git Local Repo\CompilerSimplifiedPascal\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.csprojResolveAssemblyReference.cache
+E:\Git Local Repo\CompilerSimplifiedPascal\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.frmTranslator.resources
+E:\Git Local Repo\CompilerSimplifiedPascal\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.Properties.Resources.resources
+E:\Git Local Repo\CompilerSimplifiedPascal\Glushchuk_Roman._PM-14-1._Analysis_algorithms._Methods_translation\Lab_1._Lexical_analysis\obj\Debug\CompilerSimplifiedPascal.csproj.GenerateResource.Cache

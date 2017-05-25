@@ -1,0 +1,47 @@
+program Lab_work_5_Gl_Roma;
+
+const
+  Nmax=50;
+type
+  TVect=array[1..Nmax] of longint;
+var
+  V1, V2, V3: TVect;
+  l1, l2, l3: word;
+  sv1, sv2, sv3, svm: longint;
+begin
+ writeln('Привет! И так начнем работу.');
+ writeln('Введите координаты первого вектора.');
+ InputVector(l1, V1);
+ writeln('Введите координаты второго вектора.');
+ InputVector(l2, V2);
+ writeln('Введите координаты третьего вектора.');
+ InputVector(l3, V3);
+ writeln('Полученные векторы.');
+ write('Первый - ');
+ OutputVector(l1, V1);
+ write('Второй - ');
+ OutputVector(l2, V2);
+ write('Третий - ');
+ OutputVector(l3, V3);
+ sv1:=SumVe(l1, V1);
+ sv2:=SumVe(l2, V2);
+ sv3:=SumVe(l3, V3);
+ writeln('Сумма координат первого вектора ',sv1,'.');
+ writeln('Сумма координат второго вектора ',sv2,'.');
+ writeln('Сумма координат третьего вектора ',sv3,'.');
+ if sv2<sv1 then
+   svm:=sv2
+  else
+   svm:=sv1; 
+ if sv3<svm then
+   svm:=sv3;
+ writeln('Векторы с минимальной суммой координат:');
+ if sv1=svm then
+  OutputVector(l1, V1);
+ if sv2=svm then
+  OutputVector(l2, V2);
+ if sv3=svm then
+  OutputVector(l3, V3); 
+ writeln('Поставленная задача выполнена. Пока!'); 
+end. 
+
