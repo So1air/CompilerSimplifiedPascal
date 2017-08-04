@@ -242,7 +242,14 @@ namespace CompilerSimplifiedPascal
 
         private void btnCompile_Click(object sender, EventArgs e)
         {
-           _compilerSimPas.Compile();
+            try
+            {
+                _compilerSimPas.Compile();
+            }
+            catch (ErrorInOrderWordsException ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
         }
     }
 }

@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Compiler.cs" />
     <Compile Include="EnterStream_fromUI.cs" />
+    <Compile Include="ErrorInOrderWordsException.cs" />
     <Compile Include="FictitiousRecipient.cs" />
     <Compile Include="IEnterStream.cs" />
     <Compile Include="IOutInfoCompiler.cs" />

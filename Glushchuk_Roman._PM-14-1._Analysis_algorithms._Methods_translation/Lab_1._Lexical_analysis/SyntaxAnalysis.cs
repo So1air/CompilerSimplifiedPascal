@@ -16,6 +16,7 @@ namespace CompilerSimplifiedPascal
         private Lexema _currLexema;
         private LexAnalysis.ErrorCodeLA errorLA;
         private LexAnalysis _lA;
+
         private SemanticAnalysis _semAn;
 
         internal void/*async Task*/ Start()
@@ -29,7 +30,7 @@ namespace CompilerSimplifiedPascal
             while ((errorLA != LexAnalysis.ErrorCodeLA.END_INPUT_TAPE) && (errorLA != LexAnalysis.ErrorCodeLA.UNKNOWN));
 
             if (errorLA != LexAnalysis.ErrorCodeLA.UNKNOWN)
-            {                
+            {
                 _lA.Broadcast.ReportLA(_lA.Table.Lexemas);
                 _lA.Broadcast.ReportLA(_lA.Sentence);
             }
@@ -90,7 +91,7 @@ namespace CompilerSimplifiedPascal
             DefinitionConstants();
             DeclarationVariables();
             MultipleAction();
-            return true;
+            return false;
         }
 
         private void DefinitionTypes()

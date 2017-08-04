@@ -11,10 +11,10 @@ namespace CompilerSimplifiedPascal
         SyntaxAnalysis _sA;
 
         public void Compile()
-        {            
-            //await Task.Run(new Func<Task>(_sA.Start));
-            _sA.Start();
-        }        
+        {
+                //await Task.Run(new Func<Task>(_sA.Start));
+                _sA.Start();
+        }
 
         private Compiler(IEnterStream input_stream, IOutInfoCompiler info)
         {
